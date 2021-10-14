@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy there! My name is Tim Adeyemo! 👋
+
+I am a web developer, husband, and foodie! I will also soon be an Atlanta transplant to the San Francisco area. Communites that I am into include the open source community and veterans in technology.
 
 <!--
 **TimAdeyemo/TimAdeyemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
